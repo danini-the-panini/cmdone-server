@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"action":"send","id":"0","message":"Hello World"}' 192.168.1.63:8000

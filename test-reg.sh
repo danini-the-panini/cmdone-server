@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"action":"register","host":"localhost","port":"7000"}' 127.0.0.1:8000
